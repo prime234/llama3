@@ -1,0 +1,4 @@
+gradio==4.27.0
+modelscope==1.13.3
+spaces==0.26.1
+transformers==4.40.0
